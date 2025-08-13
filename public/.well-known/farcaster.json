@@ -1,0 +1,24 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "miniapp": {
+    "version": "1",
+    "name": " Nyangbari Farcaster Test MiniApp",
+    "iconUrl": "",
+    "homeUrl": "",
+    "splashImageUrl": "",
+    "splashBackgroundColor": "#ffffff",
+    "subtitle": "Test Farcaster MiniApp",
+    "description": "A test miniapp for Farcaster with wallet connection and authentication features.",
+    "primaryCategory": "developer-tools",
+    "tags": ["test", "demo", "wallet", "auth"],
+    "ogTitle": " Nyangbari Farcaster Test MiniApp",
+    "ogDescription": "Test Farcaster MiniApp with wallet and auth",
+    "ogImageUrl": "",
+    "requiredChains": ["eip155:1", "eip155:8453"],
+    "requiredCapabilities": []
+  }
+}
